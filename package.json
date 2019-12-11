@@ -1,0 +1,36 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.4.8"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omeluhin89/unit-test.git"
+  },
+  "keywords": [
+    "unit"
+  ],
+  "author": "omeluhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omeluhin89/unit-test/issues"
+  },
+  "homepage": "https://github.com/omeluhin89/unit-test#readme"
+}
